@@ -60,4 +60,6 @@ print( "Vertex: " + str(vert) )
 
 print("done.")
 
+# Wait for 100 seconds in case the user is in Windows so the program doesn't end before the user reads the response
+
 time.sleep(100)
