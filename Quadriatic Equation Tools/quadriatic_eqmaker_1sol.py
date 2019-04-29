@@ -14,5 +14,5 @@
                 ans1 = ((b * -1) + math.sqrt(b**2 - 4 * a * c)) / (2 * a)
                 ans2 = ((b * -1) - math.sqrt(b**2 - 4 * a * c)) / (2 * a)
                 break
-        if ans1 == ans2:
-            break
+    if ans1 == ans2:
+        break
